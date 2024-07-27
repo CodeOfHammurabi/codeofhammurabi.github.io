@@ -21,7 +21,7 @@ repository               : "CodeofHammurabi/codeofhammurabi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pfp.png"
   name             : "Krishna Girish"
   pronouns         : "he/him"
   bio              : "Global change ecology. Dynamical systems. Birds. An absence of Babylonian legislature, despite the URL."
