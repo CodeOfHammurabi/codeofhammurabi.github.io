@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Community science data provide evidence for upward elevational range shifts by Eastern Himalayan birds"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-girish-srinivasan
+excerpt: 'The ongoing climate crisis is a significant threat to global biodiversity. As Earth warms, many species respond by shifting their geographical ranges either polewards, or in mountainous regions, upslope towards higher elevations, presumably to track suitable thermal environments. Upslope range shifts are of particular concern in tropical mountain ranges because: (a) tropical species are particularly thermally sensitive; (b) species moving upwards could become locally extirpated as they run out of habitable space; and (c) tropical mountains harbor a high fraction of Earth's terrestrial biodiversity. Rapid upslope shifts can, therefore, result in significant biodiversity losses. We used community science data over a 13-year period to evaluate whether 93 Eastern Himalayan bird species might be shifting to higher elevations. To do this, we analyzed changes in their occurrence probabilities in eBird checklists from birdwatching hotspots at fixed elevations. We found patterns consistent with upslope range shifts; species with elevational ranges primarily below hotspot elevations show increases in their occurrence probability over time, and those with most of their elevational ranges above a hotspot elevation decline in occurrence probability. Our findings are suggestive of rapid responses to climate change by Eastern Himalayan birds. We caution that Eastern Himalayan bird species might be at special risk from increasing global temperatures because of heightened thermal sensitivity coupled with high rates of warming in the region. To remain resilient in the face of climate change, Eastern Himalayan birds likely require undisturbed habitats spanning entire elevational gradients, to track rising temperatures by moving to higher elevations.'
+date: 2022-06-28
+venue: 'Biotropica'
+paperurl: 'http://codeofhammurabi.github.io/files/girish_srinivasan2022.pdf'
+citation: 'Girish, K. S., & Srinivasan, U. (2022). Community science data provide evidence for upward elevational range shifts by Eastern Himalayan birds. Biotropica, 54(6), 1457-1465.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
