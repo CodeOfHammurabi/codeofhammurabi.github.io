@@ -4,7 +4,7 @@ collection: talks
 type: "Assessing the effect of external perturbations on the stability of microbiota"
 permalink: /talks/2024-cee-research-day
 venue: "Civil and Environmental Engineering Research Day, Massachusetts Institute of Technology"
-date: 2024-02
+date: 2024-02-26
 location: "Cambridge, Massachusetts"
 ---
 
