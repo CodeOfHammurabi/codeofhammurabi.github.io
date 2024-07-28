@@ -1,7 +1,7 @@
 ---
-title: "Lightning Talk: MIT CEE Research Day"
+title: "Assessing the effect of external perturbations on the stability of microbiota"
 collection: talks
-type: "Assessing the effect of external perturbations on the stability of microbiota"
+type: "Lightning Talk: MIT CEE Research Day"
 permalink: /talks/2024-cee-research-day
 venue: "Civil and Environmental Engineering Research Day, Massachusetts Institute of Technology"
 date: 2024-02-26
