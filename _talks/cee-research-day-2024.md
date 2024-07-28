@@ -8,4 +8,4 @@ date: 2024-02-26
 location: "Cambridge, Massachusetts"
 ---
 
-Gave a lightning talk on my masters' thesis work with Prof. Serguei Saavedra for MIT-CEE Research Day, the annual showcase of research happening in the MIT Department of Civil and Environmental Engineering.
+Selected to present a lightning talk on my masters' thesis work with Prof. Serguei Saavedra for MIT-CEE Research Day, the annual showcase of research happening in the MIT Department of Civil and Environmental Engineering.
