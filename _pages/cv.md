@@ -97,7 +97,8 @@ Service and leadership
 * Music
   * Coordinator of Aroha, IISER Pune Music Club (2021-2022)
   * Trinity Level 3 Violin examination- Distinction
-* Birdwatching
+* Nature and Environment
+  * UNLEASH Global Innovation Lab (2022): Selected as one of the top 1000 Global Talents, to innovate novel solutions to UN Sustainable Development Goals 
   * Host of a long-running series of nature walks across my city to raise awareness on conservation and birdlife
 * Writing & Communication
   * Head of National Publicity & Data Analytics; Mimamsa, IISER Pune’s National Science Challenge (2021)
