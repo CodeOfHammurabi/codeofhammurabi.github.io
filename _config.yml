@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Krishna Girish"
 title_separator          : "-"
 name                     : &name "Krishna Girish"
-description              : &description "Global change ecology. Dynamical systems. Birds."
+description              : &description "Global change ecology, big data, dynamical systems, birds."
 url                      : https://codeofhammurabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CodeofHammurabi/codeofhammurabi.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "pfp.png"
   name             : "Krishna Girish"
   pronouns         : "he/him"
-  bio              : "Global change ecology. Dynamical systems. An absence of Babylonian legislature, despite the URL."
+  bio              : "PhD student interested in global change ecology, big data, dynamical systems, and birds. An absence of Babylonian legislature, despite the URL."
   location         : "Montpellier, France"
-  employer         : "CLIMTIP, via CNRS France"
+  employer         : "ISEM (Institute des Science de l'Evolution de Montpellier), CNRS"
   uri              : # URL
   email            : "krishnasg@gmail.com" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "krishnasg.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "krishnasg"
+  twitter          : # no
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #
 facebook:
   username               :
   app_id                 :
