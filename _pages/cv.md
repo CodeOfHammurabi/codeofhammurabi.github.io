@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a link to a PDF version of my CV (last updated 27 July 2024): [Krishna's CV](https://drive.google.com/file/d/1aLVRF6_B0FB8L47-2rlujYC3oWBK92lB/view?usp=sharing)
+Here's a link to a PDF version of my CV (last updated March 2026): [Krishna's CV](https://drive.google.com/file/d/1aLVRF6_B0FB8L47-2rlujYC3oWBK92lB/view?usp=sharing)
 
 Education
 ======
-* BS-MS Dual Degree in Biology, minor in Mathematics (with Distinction), Indian Institute of Science Education and Research (IISER), Pune: 2019-2024
+* PhD student in Ecology, Institut des Sciences de l'Evolution de Montpellier, Université de Montpellier, France: 2025-2028
+  * Quantifying the effects of projected abrupt climate changes on biodiversity
+  * Supervisors: Dr. Vasilis Dakos and Dr. Claire Jacquet
+  * Working on the [ClimTip project](https://www.climate-tipping-points.eu/), a pan-European consortium exploring the impact of climate tipping points on the earth system
+* BS-MS Dual Degree in Biology, minor in Mathematics (with Distinction), Indian Institute of Science Education and Research (IISER), Pune, India: 2019-2024
   * 9.1/10 GPA (top 5% of graduating class of 210)
   * Masters' Thesis: Assessing the sensitivity of microbial communities to external perturbations (Supervisor: Prof. Serguei Saavedra, Massachusetts Institute of Technology)  
 
 Projects and work experience
 ======
-* September 2024 onwards: Research Engineer, ISEM, Univ. of Montpellier
+* September 2024 - August 2025: Research Engineer, ISEM, Univ. of Montpellier
   * Quantifying the effect of climate tipping points on global biodiversity
-  * As part of the [CLIMTIP project](https://www.climate-tipping-points.eu/), I am investigating extinction risks induced by crossing climatic tipping points. Using current species distributions and climate simulations, I am identifying susceptibility based on niche reconstructions and identifying refugia.
-  * Supervisor: Prof. Vasilis Dakos, Prof. Claire Jacquet
+  * **Publication in review**. As part of the [CLIMTIP project](https://www.climate-tipping-points.eu/), I constructed multidimensional historical climate limits for 54,000 species worldwide, incorporating information on species range with high-resolution global climate simulations. This constitutes limits of existence for species pertaining to rainfall, temperature, environmental variability, and extreme events (heatwaves, cold-spells, and droughts).
+  * Supervisors: Dr. Vasilis Dakos and Dr. Claire Jacquet
 
 * June 2023 - May 2024: Masters' Thesis Student, Dept. of Civil and Environmental Engineering, Massachusetts Institute of Technology
   * Assessing the sensitivity of microbial communities to external perturbations
@@ -36,7 +40,7 @@ Projects and work experience
     
 * May 2020 - December 2022: Undergraduate Researcher, Centre for Ecological Sciences, Indian Institute of Science (IISc)
   * Harnessing community science data to predict upward range shifts in montane birds
-  * **One publication, second in prep.** Developing novel tools to detect montane range shifts in bird populations using community science data. Using global hotspots of bird observations, developing novel techniques for detecting extent of range shifts and therefore risk of habitat loss in the future.
+  * **Published work in 2022.** Developing novel tools to detect montane range shifts in bird populations using community science data. Using global hotspots of bird observations, developing novel techniques for detecting extent of range shifts and therefore risk of habitat loss in the future.
   * Supervisor: Prof. Umesh Srinivasan
  
 * May 2020 - December 2022: Undergraduate Researcher, Dept. of Data Science, IISER Pune
@@ -63,6 +67,8 @@ Skills
 * Ecological Systems
 * Statistical Analysis and GLMs
 * Causal Inference
+* Climate data handling, especially with cdo and terra
+* Extreme Value Theory
 * High-dimensional Data Analytics
 * QGIS
 * Genomics and bioinformatic algorithms
@@ -89,17 +95,16 @@ Talks
 Service and leadership
 ======
 * Quizzing
-  * Head Writer, Zephyr Quiz League (2023/24): writing team for a weekly quiz league of 300+ worldwide participants.
+  * Founding Member of the Université de Montpellier Quizbowl Team (2026)  
+  * Head Writer, Zephyr Quiz League (2023-2026): writing team for a weekly quiz league of 300+ worldwide participants.
   * Coordinator of IISER Pune Quiz Club (2020-2021)
 * Music
-  * Coordinator of Aroha, IISER Pune Music Club (2021-2022)
-  * Trinity Level 3 Violin examination- Distinction
-* Music
+  * Trained Indian classical vocalist
   * Coordinator of Aroha, IISER Pune Music Club (2021-2022)
   * Trinity Level 3 Violin examination- Distinction
 * Nature and Environment
   * UNLEASH Global Innovation Lab (2022): Selected as one of the top 1000 Global Talents, to innovate novel solutions to UN Sustainable Development Goals 
-  * Host of a long-running series of nature walks across my city to raise awareness on conservation and birdlife
+  * Host of a long-running series of nature walks across my hometown in India to raise awareness on conservation and birdlife
 * Writing & Communication
   * Head of National Publicity & Data Analytics; Mimamsa, IISER Pune’s National Science Challenge (2021)
   * Head of Contributions: Kalpa, IISER Pune media house (2020-2021)
@@ -107,10 +112,3 @@ Service and leadership
   * Host and MC, TEDxIISERPune (2019)
   * Published a book of my poetry: Important Matters and Other Poems (2017)
  
-
-
-
-
-
-
-
