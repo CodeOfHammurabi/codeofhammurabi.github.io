@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Heat tolerance plasticity in plants: a global synthesis"
 excerpt: "Dept. of Biology, IISER Pune <br/>Supervisor: Prof. Deepak Barua <br/><img src='/images/thermotolerances.png'>"
 collection: portfolio
 ---
