@@ -1,9 +1,11 @@
 ---
 title: "Characterizing Intron Splicing Sites Using Unsupervised Clustering"
-excerpt: "Dept. of Data Science, IISER Pune<br/>Supervisor: Prof. Leelavati Narlikar<br/><img src='/images/acceptor.png'>"
+excerpt: "Center for Ecological Sciences, Indian Institute of Science, Bangalore, India <br/>Supervisor: Prof. Umesh Srinivasan<br/><img src='/images/upslope_range.png'>"
 collection: portfolio
 ---
 
-January 2022 - May 2022
+May 2020 - December 2022
 
-After the formation of an mRNA by transcription, the nascent mRNA under- goes splicing. This is a process by which an enzyme termed as the spliceosomal complex acts on the mRNA strand, and cuts out certain sections of the mRNA known as introns. The remaining regions, called exons, are stitched together, and translation into a protein proceeds. In this project, I sought to eluci- date the possible structures for these splice sites and explore the patterns that determine them. This involved identifying the nucleotide sequences around the splicing positions, and then using NPLB, an unsupervised clustering al- gorithm, to identify architectures within these sequences. The patterns of the architectures, conservation scores of these splice sites, and correlations of these structures and scores with other parameters of the gene sequence were studied.
+Published in Biotropica, June 2022!
+
+Species in mountainous regions move upslope to track warming climates. Using community science data from eBird, we designed a statistical technique to detect these using observations from the East Himalayas. This showed that even within 13 years, species show frequency declines consistent with upslope shifts! After this, I spent a substantial amount of time scaling this up to a global-level synthesis across generalized hotspots, but this proved to be too biased to carry out with eBird data without local-scale topographic knowledge. Maybe I revisit this some day when eBird has a billion checklists...
