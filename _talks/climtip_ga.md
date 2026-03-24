@@ -4,7 +4,7 @@ collection: talks
 type: "ClimTip General Assembly"
 permalink: /talks/2024-cee-research-day
 venue: "ClimTip General Assembly, 2025, Institut Henri Poincaré, Paris"
-date: 2025-04
+date: 2025-04-08
 location: "Paris, France"
 ---
 
