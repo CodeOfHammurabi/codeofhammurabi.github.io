@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Intron Splicing Sites Using Unsupervised Clustering"
+title: "Harnessing community science data to predict upward range shifts in montane birds"
 excerpt: "Center for Ecological Sciences, Indian Institute of Science, Bangalore, India <br/>Supervisor: Prof. Umesh Srinivasan<br/><img src='/images/upslope_range.png'>"
 collection: portfolio
 ---
