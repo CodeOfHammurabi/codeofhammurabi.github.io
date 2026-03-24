@@ -1,9 +1,9 @@
 ---
-title: "Modeling Sign-feasibility in Random Ecosystems"
-excerpt: "Dept. of Ecology and Evolution, University of Chicago <br/>Supervisor: Prof. Stefano Allesina<br/>"
+title: "Spatial Models of Higher-order Interactions"
+excerpt: "Dept. of Ecology and Evolutionary Biology, Princeton University <br/>Supervisor: Theo Gibbs, Prof. Jonathan Levine<br/>"
 collection: portfolio
 ---
 
-May 2021 - August 2021
+May 2022 - August 2022
 
-In community ecology, it is often easier to define the signs of interaction than measuring their strength, thus producing a "signed" interaction matrix of (+)/(-)/0. In this project, I sought to use theorems of signed matrices from linear algebra to identify when a given ecosystem is feasible and stable. I developed criteria based on existing theorems for how to computationally identify a feasible signed matrix, and identified some preliminary signals in 2-species and 3-species systems. I hope to pick up this project again some day though :)
+Higher-order interactions, or those ecosystem interactions involving a third species modulating the interaction between two species, are increasingly understood to play a significant role in ecosystem structure. In this project, working with Theo Gibbs and Prof. Jonathan Levine, I investigated how higher-order interactions may impact spatial structure formation in ecosystems. Using analytical formulations from statistical mechanics and numerical computer simulations of stochastic dynamics, I worked on how spatial structure in ecosystems may mediate the effects of higher-order interactions on species coexistence.
