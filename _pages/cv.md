@@ -23,8 +23,13 @@ Education
 
 Projects and work experience
 ======
+* October 2025 - present: PhD student, ISEM, Univ. of Montpellier
+  * Quantifying the effect of projected abrupt climate change on global biodiversity
+  * My PhD thesis models the multidimensional risks to global ecosystems arising from crossing climate tipping points, as part of the pan-European ClimTip project. Using daily fine-scale projections of climate in different scenarios of warming, including the collapse of the Atlantic Thermohaline Circulation and Amazon Rainforest, I build geospatial and ecological data synthesis pipelines to predict how novel extremes of temperature, precipitation, and extreme events impact future climate vulnerability of 55,000 animal species over the next 100 years.
+  * Supervisors: Dr. Vasilis Dakos and Dr. Claire Jacquet
+
 * September 2024 - August 2025: Research Engineer, ISEM, Univ. of Montpellier
-  * Quantifying the effect of climate tipping points on global biodiversity
+  * Modeling historical climate sensitivites of global biodiversity
   * **Publication in review**. As part of the [CLIMTIP project](https://www.climate-tipping-points.eu/), I constructed multidimensional historical climate limits for 54,000 species worldwide, incorporating information on species range with high-resolution global climate simulations. This constitutes limits of existence for species pertaining to rainfall, temperature, environmental variability, and extreme events (heatwaves, cold-spells, and droughts).
   * Supervisors: Dr. Vasilis Dakos and Dr. Claire Jacquet
 
@@ -99,9 +104,8 @@ Service and leadership
   * Head Writer, Zephyr Quiz League (2023-2026): writing team for a weekly quiz league of 300+ worldwide participants.
   * Coordinator of IISER Pune Quiz Club (2020-2021)
 * Music
-  * Trained Indian classical vocalist
+  * Trained classical violinist and Indian classical vocalist
   * Coordinator of Aroha, IISER Pune Music Club (2021-2022)
-  * Trinity Level 3 Violin examination- Distinction
 * Nature and Environment
   * UNLEASH Global Innovation Lab (2022): Selected as one of the top 1000 Global Talents, to innovate novel solutions to UN Sustainable Development Goals 
   * Host of a long-running series of nature walks across my hometown in India to raise awareness on conservation and birdlife
