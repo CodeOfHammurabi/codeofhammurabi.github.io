@@ -1,7 +1,7 @@
 ---
 title: "Modeling Sign-feasibility in Random Ecosystems"
-excerpt: "Dept. of Ecology and Evolution, University of Chicago <br/>Supervisor: Prof. Stefano Allesina<br/><img src='/images/500x300.png'>"
+excerpt: "Dept. of Ecology and Evolution, University of Chicago <br/>Supervisor: Prof. Stefano Allesina<br/>"
 collection: portfolio
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+In community ecology, it is often easier to define the signs of interaction than measuring their strength, thus producing a "signed" interaction matrix of (+)/(-)/0. In this project, I sought to use theorems of signed matrices from linear algebra to identify when a given ecosystem is feasible and stable. I developed criteria based on existing theorems for how to computationally identify a feasible signed matrix, and identified some preliminary signals in 2-species and 3-species systems. I hope to pick up this project again some day though :)
