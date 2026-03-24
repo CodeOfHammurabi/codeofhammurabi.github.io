@@ -1,6 +1,6 @@
 ---
 title: "Spatial Models of Higher-order Interactions"
-excerpt: "Dept. of Ecology and Evolutionary Biology, Princeton University <br/>Supervisor: Prof. Jonathan Levine<br/>"
+excerpt: "Dept. of Ecology and Evolutionary Biology, Princeton University <br/>Supervisor: Theo Gibbs, Prof. Jonathan Levine<br/>"
 collection: portfolio
 ---
 
