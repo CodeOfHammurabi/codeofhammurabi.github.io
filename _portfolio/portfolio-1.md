@@ -1,6 +1,6 @@
 ---
 title: "Quantifying the effect of projected abrupt climate change on global biodiversity"
-excerpt: "PhD Thesis, Université de Montpellier, France <br/> Advisors: Dr. Vasilis Dakos & Dr. Claire Jacquet <br/><img src='/images/gauguin.jpg'>"
+excerpt: "PhD Thesis, Université de Montpellier, France <br/> Advisors: Dr. Vasilis Dakos & Dr. Claire Jacquet <br/><img src='/images/gulfstream.jpg'>"
 collection: portfolio
 ---
 
