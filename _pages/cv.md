@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a link to a PDF version of my CV (last updated March 2026): [Krishna's CV](https://drive.google.com/file/d/1aLVRF6_B0FB8L47-2rlujYC3oWBK92lB/view?usp=sharing)
+Here's a link to a PDF version of my CV (last updated March 2026): [Krishna's CV](https://drive.google.com/file/d/1qm19khkRzsDaGoLnxomVMdZpivYKrcg4/view?usp=sharing)
 
 Education
 ======
