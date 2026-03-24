@@ -1,9 +1,9 @@
 ---
 title: "Modeling global patterns in environmental niches"
 collection: talks
-type: "ClimTip General Assembly"
+type: "ClimTip General Assembly 2025"
 permalink: /talks/2024-cee-research-day
-venue: "ClimTip General Assembly, 2025, Institut Henri Poincaré, Paris"
+venue: "Institut Henri Poincaré, Paris"
 date: 2025-04-08
 location: "Paris, France"
 ---
